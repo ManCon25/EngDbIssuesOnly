@@ -1,4 +1,4 @@
-# EngDbIssuesOnly
+# Engineering Datenbank Issues Only Repository
 Projektübergreifende Sammlung von Issues zur Engineeringdatenbank.
 
 Die Issues können **[hier](https://github.com/ManCon25/EngDbIssuesOnly/issues)** erfasst werden. Bitte einen aussagekräftigen Titel und eine nachvollziehbare Beschreibung eintragen.
