@@ -11,7 +11,7 @@ ENHANCEMENT-REQUIRED: Dieses Feature ist mittelfristig erforderlich und muss imp
 
 
 ##Verlinkte Repositories:
-[Web-API Master](https://pages.github.com/)
-[Front-End Master](https://pages.github.com/)
-[Front-End Reuter West](https://pages.github.com/)
-[Front-End LPP](https://pages.github.com/)
+[Web-API Master](https://github.com/ManCon25/EngDbWebAPI)
+[Front-End Master](https://github.com/ManCon25/EngDbMaster)
+[Front-End Reuter West](https://github.com/ManCon25/ProjectReWe)
+[Front-End LPP]
