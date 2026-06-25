@@ -11,7 +11,4 @@ Die Issues können **[hier](https://github.com/ManCon25/EngDbIssuesOnly/issues)*
 
 
 ## Verlinkte Repositories:
-- [Web-API Master](https://github.com/ManCon25/EngDbWebAPI)
-- [Front-End Master](https://github.com/ManCon25/EngDbMaster)
-- [Front-End Reuter West](https://github.com/ManCon25/ProjectReWe)
-- [Front-End Bergkamen](https://github.com/ManCon25/EngDb_Bergkamen)
+- [Front-End Bergkamen](https://github.com/ManCon25/EngDbV3)
